@@ -1,0 +1,17 @@
+# Portal 插件配置文件
+
+# 传送门设置
+portal:
+  # 是否启用传送门功能
+  enabled: true
+  # 传送门框架材料
+  frame-materials:
+    - OBSIDIAN
+  # 传送门最大检测范围
+  max-range: 20
+  # 是否显示激活消息
+  show-activation-message: true
+  # 是否启用调试模式
+  debug-mode: true
+  # 最大传送门方块数量，-1为无限
+  max-portal-blocks: 100

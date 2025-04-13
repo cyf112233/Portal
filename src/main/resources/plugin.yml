@@ -1,0 +1,7 @@
+name: Portal
+version: '${version}'
+main: byd.cxkcxkckx.Portal.Portal
+api-version: 1.13
+depend: [  ]
+softdepend: [ PlaceholderAPI ]
+authors: [ cxkcxkckx ]
